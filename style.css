@@ -1,0 +1,39 @@
+#logo {
+  padding: 30px;
+  padding-top: 40px;
+}
+
+.nav-item {
+  padding-left: 32px;
+}
+
+.nav-link {
+  color: black;
+}
+
+#last-project {
+  padding-bottom: 30px;
+}
+
+.info {
+  font-size: 13px;
+  padding-bottom: 3px;
+}
+
+.nav-container {
+  position: absolute;
+  z-index: 5;
+}
+.project-container {
+  float: right;
+}
+
+/*.vertical {
+  height: 400px;
+  width: 2000px;
+}*/
+
+.horizontal {
+  height: auto;
+  width: 400px;
+}
